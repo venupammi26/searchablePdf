@@ -1,0 +1,11 @@
+DemoPdfFromS3PdfAppend.class
+DemoPdfFromLocalImage.class
+DemoPdfFromLocalPdf.class
+DemoLambda.class
+com\amazon\textract\pdf\ImageType.class
+Demo.class
+com\amazon\textract\pdf\FontInfo.class
+com\amazon\textract\pdf\TextLine.class
+DemoPdfFromS3Image.class
+com\amazon\textract\pdf\PDFDocument.class
+DemoPdfFromS3Pdf.class
